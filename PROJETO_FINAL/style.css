@@ -46,3 +46,9 @@ h2 {
     align-items: center;
     transition: 0.5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
 }
+
+a:hover{
+    color: #5e0878;
+    background-color: #ffffff;
+}
+
